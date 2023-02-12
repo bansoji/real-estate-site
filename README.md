@@ -5,6 +5,6 @@ This app introduces a new way to search for properties in comparison to existing
 
 This code is only a skeleton and no longer builds.
 
-<img src="images/1.png" height="500">
-<img src="images/2.png" height="500">
-<img src="images/3.png" height="500">
+<img src="images/1.png" width="300">
+<img src="images/2.png" width="300">
+<img src="images/3.png" width="300">
