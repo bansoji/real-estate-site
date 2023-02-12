@@ -1,0 +1,35 @@
+export default {
+    colors: {
+        accent: '#DC143C', // '#566fb8',
+        accentDark: '#99112c',
+        accentHover: '#c21336', // '#5167a8',
+        accentBlue: '#395cbd',
+        accentBlueDark: '#22366e',
+        newAccent: '#dab38a',
+        newAccentHover: '#d3ae87',
+        secondary: '#1bbe2b',
+        grey: '#efeff1',
+        borderGrey: '#e8e8e8',
+        footer: '#303030',
+        darkGrey: '#c9c9c9',
+        background: '#fafafa',
+        textGrey: '#394043',
+        richBlack: '#080F0F',
+        hoverGrey: '#e3e3e3',
+        negativeBlue: '#0063cc',
+        cherry: '#ff7570',
+        orange: '#edad21',
+    },
+    fonts: {
+        header: 'Noto Sans JP, serif',
+        default: 'kozuka-mincho-pro, sans-serif',
+    },
+    fontWeights: {
+        header: '200',
+        default: '200',
+    },
+    fontStyles: {
+        header: 'normal',
+        default: 'normal',
+    },
+};
